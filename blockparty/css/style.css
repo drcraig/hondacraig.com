@@ -1,0 +1,28 @@
+body{ 
+	font-family:Garamond;
+	margin: 20px 40px;
+	padding: 40px 50px;
+	background: #ffff99;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+}
+
+div#heading{
+	font-family:Georgia;
+	font-variant:small-caps;
+	text-align: center;
+}
+
+html{
+	background-color:#336633;
+	
+}
+
+div#map{
+	text-align:center;
+}
+
+a:link, a:visited{
+	color:#660000;
+	text-decoration:none;
+}
